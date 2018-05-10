@@ -1,0 +1,19 @@
+.monthHeader {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+.monthHeader dl,h2 {
+    margin: 0 12px;
+}
+.monthHeader dl {
+    display: flex;
+    flex-direction: row;
+}
+.monthHeader h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+}
+
+

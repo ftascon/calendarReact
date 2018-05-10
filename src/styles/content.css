@@ -1,0 +1,13 @@
+.monthContent{
+    min-width: 500px;
+}
+.monthContent .monthDayNames{
+    display: flex;
+    flex-direction: row;
+}
+.monthContent .monthDayNames div{
+    width: 16.6%;
+    text-align: center;
+    border: 1px solid #efefef;
+}
+.monthContent .monthWeeks{}
