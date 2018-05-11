@@ -4,6 +4,7 @@ import CalTitle from "./caltitle";
 import CalMonth from "./calmonth";
 import "../styles/header.css";
 import "../styles/content.css";
+import "../styles/wrapper.css";
 
 class CalendarWrap extends Component {
     constructor(props) {
